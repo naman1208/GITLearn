@@ -5,3 +5,6 @@ int main()
 	printf("%d",a+b);
 	return 0;
 }
+implement factorial and others
+do it nicely
+on remote master
