@@ -1,7 +1,8 @@
 #include<stdio.h>
 int add(int a, int b)
 {
-	a+=b;
+	int c;
+	c=a+b;
 
 }
 int sub(int a, int b)
