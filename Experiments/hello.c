@@ -7,9 +7,9 @@ void emptyFunctionStub()
 {
 	life 1
 	life 2
-	life 5
-	life 6
 
+	life3
+	life	4
 }
 int main()
 {
