@@ -5,7 +5,10 @@ void DoSomethingAtRemote()
 }
 void emptyFunctionStub()
 {
-
+	life3
+	life	4
+	life	7
+		8
 }
 int main()
 {
