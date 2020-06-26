@@ -6,5 +6,9 @@ void DoSomethingAtRemote()
 int main()
 {
 	printf("Hello World!\n");
+	printf("HI there");
+	printf("How are You");
+	printf("I am Fine");
+
 	return 0;
 }
